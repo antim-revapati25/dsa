@@ -5,10 +5,8 @@ It includes:
 
 * Your **Brute Force approach**
 * Your **First Stack-based approach (detailed version)**
-* Your **Optimized Stack (clean monotonic stack)**
+* Your **Optimized Stack ( ➡️➡️➡️ maintain a monotonic decreasing stack )**
 
-And most importantly:
-➡️ *Why you move from one approach to the next*.
 
 ---
 
